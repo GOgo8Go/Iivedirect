@@ -10,6 +10,7 @@ on:
     paths:
       - '**.go'
 
+
 jobs:
   linux_amd64_build:
     runs-on: ubuntu-latest
